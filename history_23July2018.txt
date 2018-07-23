@@ -1,0 +1,82 @@
+    1  pwd
+    2  whoami
+    3  df -h
+    4  top
+    5  pwd
+    6  ls lrt
+    7  pwd
+    8  ls -lrt
+    9  pwd
+   10  ls -lrt
+   11  git
+   12  git clone  https://github.com/peeths/WebTest_peeths.git
+   13  pw
+   14  pwd
+   15  ls -ls
+   16  ls -la
+   17  cd WebTest_peeths/
+   18  ls -la
+   19  ls -ltr .git/
+   20  pwd
+   21  vi index.html
+   22  get status
+   23  git status
+   24  git add *
+   25  git status
+   26  git commit -m "Added index.html" 
+   27  git status
+   28  git log
+   29  git diff
+   30  pwd
+   31  ls -lrt
+   32  git push
+   33  git branch
+   34  git branch -v
+   35  git branch test
+   36  git checkout test
+   37  git branch -v
+   38  git add *
+   39  git commit -m "adding "
+   40  git status
+   41  git branch -v
+   42  pwd
+   43  ls -lrt
+   44  git checkout master
+   45  git merge test
+   46  git branch -v
+   47  history 
+   48  git checkout test
+   49  git add *
+   50  git commiy -m "lanlakldklasdklnaklsd" 
+   51  git commit -m "lanlakldklasdklnaklsd" 
+   52  git checkout master
+   53  git merge test
+   54  git add *
+   55  git merge test
+   56  git commit -m "alnsdklakldklad"
+   57  git merge test
+   58  got add *
+   59  git add *
+   60  git commit -m "alnsdklakldklad"
+   61  git commit -m "aldladl"
+   62  git remote -v
+   63  pwd
+   64  ls -lrt\
+   65  ls -lrt
+   66  git push
+   67  git add *
+   68  git commit -m "lansdlalndad"
+   69  git push
+   70  git pull
+   71  git add  *
+   72  git commit -m "tested again"
+   73  git push
+   74  pwd
+   75  ls -lrt
+   76  view ../README.md 
+   77  cp ../README.md .
+   78  git add *
+   79  git commit -m "adding Readme"
+   80  git push
+   81  pwd
+   82  history > history_23July2018.txt
