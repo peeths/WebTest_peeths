@@ -1,0 +1,313 @@
+    1  pwd
+    2  whoami
+    3  df -h
+    4  top
+    5  pwd
+    6  ls lrt
+    7  pwd
+    8  ls -lrt
+    9  pwd
+   10  ls -lrt
+   11  git
+   12  git clone  https://github.com/peeths/WebTest_peeths.git
+   13  pw
+   14  pwd
+   15  ls -ls
+   16  ls -la
+   17  cd WebTest_peeths/
+   18  ls -la
+   19  ls -ltr .git/
+   20  pwd
+   21  vi index.html
+   22  get status
+   23  git status
+   24  git add *
+   25  git status
+   26  git commit -m "Added index.html" 
+   27  git status
+   28  git log
+   29  git diff
+   30  pwd
+   31  ls -lrt
+   32  git push
+   33  git branch
+   34  git branch -v
+   35  git branch test
+   36  git checkout test
+   37  git branch -v
+   38  git add *
+   39  git commit -m "adding "
+   40  git status
+   41  git branch -v
+   42  pwd
+   43  ls -lrt
+   44  git checkout master
+   45  git merge test
+   46  git branch -v
+   47  history 
+   48  git checkout test
+   49  git add *
+   50  git commiy -m "lanlakldklasdklnaklsd" 
+   51  git commit -m "lanlakldklasdklnaklsd" 
+   52  git checkout master
+   53  git merge test
+   54  git add *
+   55  git merge test
+   56  git commit -m "alnsdklakldklad"
+   57  git merge test
+   58  got add *
+   59  git add *
+   60  git commit -m "alnsdklakldklad"
+   61  git commit -m "aldladl"
+   62  git remote -v
+   63  pwd
+   64  ls -lrt\
+   65  ls -lrt
+   66  git push
+   67  git add *
+   68  git commit -m "lansdlalndad"
+   69  git push
+   70  git pull
+   71  git add  *
+   72  git commit -m "tested again"
+   73  git push
+   74  pwd
+   75  ls -lrt
+   76  view ../README.md 
+   77  cp ../README.md .
+   78  git add *
+   79  git commit -m "adding Readme"
+   80  git push
+   81  pwd
+   82  history > history_23July2018.txt
+   83  ls -lrt
+   84  git add *
+   85  add commit -v "Ading history"
+   86  git commit -v "Ading history"
+   87  git commit -m "Ading history"
+   88  git push
+   89  git pull origin testBanch
+   90  git checkout test
+   91  git pull origin testBanch
+   92  git pull origin testBranch
+   93  ls -lr
+   94  git checkout master
+   95  git pull origin testBranch
+   96  git status
+   97  git branch -v
+   98  git push -set-upstream origin testBranch
+   99  git push -set -upstream origin testBranch
+  100  git push --set-upstream origin testBranch
+  101  git checkout test
+  102  git push --set-upstream origin sampleTest
+  103  git push --set-upstream origin testBranch
+  104  exit
+  105  halt -p
+  106  pwd
+  107  ls -lrt
+  108  cd WebTest_peeths/
+  109  git status
+  110  gi --set-upsteam origin master:testBranch
+  111  git --set-upsteam origin master:testBranch
+  112  git --set-upstream origin master:testBranch
+  113  git push --set-upstream origin master:testBranch
+  114  git push --set-upstream origin master
+  115  pwd
+  116  sudo yum -y install java-1.8.0-openjdk.x86_64
+  117  sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
+  118  sudo  rpm --import http://pkg.jenkins-ci.org/redhat-stable/jenkins-ci.org.key
+  119  sudo yum remove java-1.7.0
+  120  sudo yum -y install jenkins
+  121  sudo systemctl start jenkins
+  122  sudo service jenkins start
+  123  sudo chkconfig jenkins on
+  124  ifconfig 
+  125  chkconfig | grep jenkins
+  126  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  127  which git
+  128  which bash
+  129  which ssh
+  130  sudo bash
+  131  pwd
+  132  ls lrt
+  133  git branch -v
+  134  vi webScript
+  135  git add *
+  136  git vcommit -M 'adding webScript"
+  137  git commit -m "adding webScript"
+  138  git push
+  139  git add *
+  140  git commit -M "jslnlsanfonsfd"
+  141  git commit -m "jslnlsanfonsfd"
+  142  git push --setupstream origin master:testBranch
+  143  git push --set-upstream origin master:testBranch
+  144  git push --set-upstream  master:testBranch
+  145  git push --set-upstream origin master:testBranch
+  146  git add *
+  147  git commit -m "committed"
+  148  git push
+  149  git push *
+  150  git push --set-upstream origin master:testBranch
+  151  git push*
+  152  git push
+  153  git push --set-upstream origin testBranch
+  154  git push --set-upstream origin test
+  155  vi index.html 
+  156  git add *
+  157  git commit -m "coomited again and again"
+  158  git push 
+  159  checkout branch testBranch
+  160  git checkout testBranch
+  161  vi index.html 
+  162  git add *
+  163  git commit -m "lahnoalndjlad"
+  164  git push
+  165  vi index.html 
+  166  git add *
+  167  git commit -m "lahnoalndjlad"
+  168  git push
+  169  git push --set-upstream origin testBranch
+  170  git checkout master
+  171  vi index.html 
+  172  git checkout test
+  173  vi index.html 
+  174  git checkout testBranch
+  175  vi index.html 
+  176  git add *
+  177  git commit -m "lahnoalndjlad"
+  178  vi index.html 
+  179  git add *
+  180  git commit -m "adding"
+  181  git push
+  182  git push --set-upsteam origin testBranch:testBranch
+  183  git push --set-upstream origin testBranch:testBranch
+  184  git pull
+  185  git pull origin testBranch
+  186  git push --set-upstream origin testBranch:testBranch
+  187  wget http://www-eu.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+  188  pwd
+  189  ls lrt
+  190  ls -lrt
+  191  tar -zxvf apache-maven-3.5.4-bin.tar.gz 
+  192  sudo mv apache-maven-3.5.4 /usr/local/bin/
+  193  ls -l /usr/local/bin/apache-maven-3.5.4/bin/mvn
+  194  sudo yum -y install java-1.8.0-openjdk-devel
+  195  javac
+  196  sudo systemctl restart httpd
+  197  sudo systemctl status httpd
+  198  systemctl status httpd
+  199  pwd
+  200  ls -lrt
+  201  hostory
+  202  history
+  203  ps -ef | grep java
+  204  curl http://peeths-threetier-weblayer-lb-672295792.us-east-1.elb.amazonaws.com/
+  205  curl http://Peeths-threetier-weblayer-LB-672295792.us-east-1.elb.amazonaws.com
+  206  curl htt://test-1305868814.us-east-1.elb.amazonaws.com
+  207  curl http://test-1305868814.us-east-1.elb.amazonaws.com
+  208  nslookup test-1305868814.us-east-1.elb.amazonaws.com
+  209  chmod 600 testKey.pem 
+  210  ssh -i testKey.pem ec2-user@18.212.228.216
+  211  ssh -i testKey.pem ec2-user@54.152.4.150
+  212  sudo yum -y install docker
+  213  user
+  214  whoami\
+  215  whoami
+  216  sudo usermod -a -G docker ec2-user
+  217  id -a
+  218  sudo service docker start
+  219  sudo chkconfig docker on
+  220  sudo service docker status
+  221  docker ps
+  222  vi
+  223  ls -lrt
+  224  chmod 775 dockerfile 
+  225  mv dockerfile dockerfile.sh
+  226  ./dockerfile.sh 
+  227  vi dockerfile.sh 
+  228  ./dockerfile.sh 
+  229  vi dockerfile.sh 
+  230  ./dockerfile.sh 
+  231  vi dockerfile.sh 
+  232  docker stop my-apache-app
+  233  docker rm my-apache-app
+  234  ./dockerfile.sh 
+  235  vi dockerfile.sh 
+  236  docker inspec my-appache-app
+  237  docker inspect my-appache-app
+  238  docker inspect my-apache-app
+  239  docker stop my-apache-app
+  240  docker inspect my-apache-app
+  241  vi dockerfile.sh 
+  242  docker start my-apache-app
+  243  docker inspect my-apache-app
+  244  q!
+  245  docker exec -it my-apache-app /bin/bash
+  246  pwd
+  247  du -sh docker
+  248  ls -lrt
+  249  ls -l /var/lib/docker/
+  250  sudo ls -l /var/lib/docker/
+  251  sudo ls -l /var/lib/docker/volumes
+  252  doscker ps
+  253  docker ps
+  254  docker stop my-apache-app
+  255  docker rm my-apache-app
+  256  vi dockerfile.sh 
+  257  docker images
+  258  sudo ls -l /var/lib/docker/image
+  259  cd myapp/frontend/
+  260  docker build -t myapache:1.0 . 
+  261  docker images
+  262  docker image\
+  263  docker image
+  264  docker images
+  265  pwd
+  266  docker build -t myUbuntu:1.0
+  267  docker build -t myUbuntu:1.0 .
+  268  pwd
+  269  cd ../../myUbuntu/
+  270  ls -lrt
+  271  cd frontend/
+  272  docker build -t myUbuntu:1.0 .
+  273  ls -lrt
+  274  docker build -t myubuntu:1.0 .
+  275  docker status
+  276  docker images
+  277  docker run -it myubuntu:latest /bin/back
+  278  docker run -it myubuntu:artful /bin/back
+  279  docker run -it ubuntu:docker /bin/back
+  280  docker run -it myubuntu
+  281  docker run -it ubuntu
+  282  nginx
+  283  docker run -it ubuntu
+  284  docker run -it myubuntu:1.0 /bin/bash
+  285  docker build -t myubuntu:1.1 .
+  286  docker images
+  287  docker run -it myubuntu:1.1 /bin/bash
+  288  docker run -d -p 9000:80 --name mynginx myngix:1.1
+  289  docker run -d -p 9000:80 --name myubuntu myubuntu:1.1
+  290  docker status
+  291  docker ps
+  292  docker run -d -p 8001:80 --name ubuntu01 myubuntu:1.1
+  293  docker build -t myubuntu:1.2 .
+  294  docker run -d -p 8003:80 --name ubuntu02 myubuntu:1.2
+  295  docket stio myubuntu1.0
+  296  docket stop myubuntu1.0
+  297  docke stop myubuntu1.0
+  298  docker stop myubuntu1.0
+  299  docker stop myubuntu
+  300  docker stop ubuntu01
+  301  docker ps
+  302  docker images
+  303  docket tag myngnix:1.2 peehs:peethsnginx:1.2
+  304  docker tag myngnix:1.2 peehs:peethsnginx:1.2
+  305  docker tag myngnix:1.2 peehs/peethsnginx:1.2
+  306  docker tag myubuntu:1.2 peehs/peethsnginx:1.2
+  307  docker login
+  308  docker push  peehs/peethsnginx
+  309  docker logout
+  310  docker tag myubuntu:1.1 peehs/peethsnginx:1.1
+  311  docker login
+  312  docker push  peehs/peethsnginx
+  313  history > 26JUly2018.Docker.txt
