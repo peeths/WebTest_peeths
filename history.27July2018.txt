@@ -1,0 +1,473 @@
+    1  pwd
+    2  whoami
+    3  df -h
+    4  top
+    5  pwd
+    6  ls lrt
+    7  pwd
+    8  ls -lrt
+    9  pwd
+   10  ls -lrt
+   11  git
+   12  git clone  https://github.com/peeths/WebTest_peeths.git
+   13  pw
+   14  pwd
+   15  ls -ls
+   16  ls -la
+   17  cd WebTest_peeths/
+   18  ls -la
+   19  ls -ltr .git/
+   20  pwd
+   21  vi index.html
+   22  get status
+   23  git status
+   24  git add *
+   25  git status
+   26  git commit -m "Added index.html" 
+   27  git status
+   28  git log
+   29  git diff
+   30  pwd
+   31  ls -lrt
+   32  git push
+   33  git branch
+   34  git branch -v
+   35  git branch test
+   36  git checkout test
+   37  git branch -v
+   38  git add *
+   39  git commit -m "adding "
+   40  git status
+   41  git branch -v
+   42  pwd
+   43  ls -lrt
+   44  git checkout master
+   45  git merge test
+   46  git branch -v
+   47  history 
+   48  git checkout test
+   49  git add *
+   50  git commiy -m "lanlakldklasdklnaklsd" 
+   51  git commit -m "lanlakldklasdklnaklsd" 
+   52  git checkout master
+   53  git merge test
+   54  git add *
+   55  git merge test
+   56  git commit -m "alnsdklakldklad"
+   57  git merge test
+   58  got add *
+   59  git add *
+   60  git commit -m "alnsdklakldklad"
+   61  git commit -m "aldladl"
+   62  git remote -v
+   63  pwd
+   64  ls -lrt\
+   65  ls -lrt
+   66  git push
+   67  git add *
+   68  git commit -m "lansdlalndad"
+   69  git push
+   70  git pull
+   71  git add  *
+   72  git commit -m "tested again"
+   73  git push
+   74  pwd
+   75  ls -lrt
+   76  view ../README.md 
+   77  cp ../README.md .
+   78  git add *
+   79  git commit -m "adding Readme"
+   80  git push
+   81  pwd
+   82  history > history_23July2018.txt
+   83  ls -lrt
+   84  git add *
+   85  add commit -v "Ading history"
+   86  git commit -v "Ading history"
+   87  git commit -m "Ading history"
+   88  git push
+   89  git pull origin testBanch
+   90  git checkout test
+   91  git pull origin testBanch
+   92  git pull origin testBranch
+   93  ls -lr
+   94  git checkout master
+   95  git pull origin testBranch
+   96  git status
+   97  git branch -v
+   98  git push -set-upstream origin testBranch
+   99  git push -set -upstream origin testBranch
+  100  git push --set-upstream origin testBranch
+  101  git checkout test
+  102  git push --set-upstream origin sampleTest
+  103  git push --set-upstream origin testBranch
+  104  exit
+  105  halt -p
+  106  pwd
+  107  ls -lrt
+  108  cd WebTest_peeths/
+  109  git status
+  110  gi --set-upsteam origin master:testBranch
+  111  git --set-upsteam origin master:testBranch
+  112  git --set-upstream origin master:testBranch
+  113  git push --set-upstream origin master:testBranch
+  114  git push --set-upstream origin master
+  115  pwd
+  116  sudo yum -y install java-1.8.0-openjdk.x86_64
+  117  sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
+  118  sudo  rpm --import http://pkg.jenkins-ci.org/redhat-stable/jenkins-ci.org.key
+  119  sudo yum remove java-1.7.0
+  120  sudo yum -y install jenkins
+  121  sudo systemctl start jenkins
+  122  sudo service jenkins start
+  123  sudo chkconfig jenkins on
+  124  ifconfig 
+  125  chkconfig | grep jenkins
+  126  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  127  which git
+  128  which bash
+  129  which ssh
+  130  sudo bash
+  131  pwd
+  132  ls lrt
+  133  git branch -v
+  134  vi webScript
+  135  git add *
+  136  git vcommit -M 'adding webScript"
+  137  git commit -m "adding webScript"
+  138  git push
+  139  git add *
+  140  git commit -M "jslnlsanfonsfd"
+  141  git commit -m "jslnlsanfonsfd"
+  142  git push --setupstream origin master:testBranch
+  143  git push --set-upstream origin master:testBranch
+  144  git push --set-upstream  master:testBranch
+  145  git push --set-upstream origin master:testBranch
+  146  git add *
+  147  git commit -m "committed"
+  148  git push
+  149  git push *
+  150  git push --set-upstream origin master:testBranch
+  151  git push*
+  152  git push
+  153  git push --set-upstream origin testBranch
+  154  git push --set-upstream origin test
+  155  vi index.html 
+  156  git add *
+  157  git commit -m "coomited again and again"
+  158  git push 
+  159  checkout branch testBranch
+  160  git checkout testBranch
+  161  vi index.html 
+  162  git add *
+  163  git commit -m "lahnoalndjlad"
+  164  git push
+  165  vi index.html 
+  166  git add *
+  167  git commit -m "lahnoalndjlad"
+  168  git push
+  169  git push --set-upstream origin testBranch
+  170  git checkout master
+  171  vi index.html 
+  172  git checkout test
+  173  vi index.html 
+  174  git checkout testBranch
+  175  vi index.html 
+  176  git add *
+  177  git commit -m "lahnoalndjlad"
+  178  vi index.html 
+  179  git add *
+  180  git commit -m "adding"
+  181  git push
+  182  git push --set-upsteam origin testBranch:testBranch
+  183  git push --set-upstream origin testBranch:testBranch
+  184  git pull
+  185  git pull origin testBranch
+  186  git push --set-upstream origin testBranch:testBranch
+  187  wget http://www-eu.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+  188  pwd
+  189  ls lrt
+  190  ls -lrt
+  191  tar -zxvf apache-maven-3.5.4-bin.tar.gz 
+  192  sudo mv apache-maven-3.5.4 /usr/local/bin/
+  193  ls -l /usr/local/bin/apache-maven-3.5.4/bin/mvn
+  194  sudo yum -y install java-1.8.0-openjdk-devel
+  195  javac
+  196  sudo systemctl restart httpd
+  197  sudo systemctl status httpd
+  198  systemctl status httpd
+  199  pwd
+  200  ls -lrt
+  201  hostory
+  202  history
+  203  ps -ef | grep java
+  204  curl http://peeths-threetier-weblayer-lb-672295792.us-east-1.elb.amazonaws.com/
+  205  curl http://Peeths-threetier-weblayer-LB-672295792.us-east-1.elb.amazonaws.com
+  206  curl htt://test-1305868814.us-east-1.elb.amazonaws.com
+  207  curl http://test-1305868814.us-east-1.elb.amazonaws.com
+  208  nslookup test-1305868814.us-east-1.elb.amazonaws.com
+  209  chmod 600 testKey.pem 
+  210  ssh -i testKey.pem ec2-user@18.212.228.216
+  211  ssh -i testKey.pem ec2-user@54.152.4.150
+  212  sudo yum -y install docker
+  213  user
+  214  whoami\
+  215  whoami
+  216  sudo usermod -a -G docker ec2-user
+  217  id -a
+  218  sudo service docker start
+  219  sudo chkconfig docker on
+  220  sudo service docker status
+  221  histor > 25July2018-01.txt
+  222  history > 25July2018-01.txt
+  223  docker ps
+  224  echo $PWD
+  225  pwd
+  226  docket info
+  227  docker info
+  228  vi
+  229  ls -lrt
+  230  chmod 775 dockerfile 
+  231  mv dockerfile dockerfile.sh
+  232  ./dockerfile.sh 
+  233  vi dockerfile.sh 
+  234  ./dockerfile.sh 
+  235  vi dockerfile.sh 
+  236  ./dockerfile.sh 
+  237  vi dockerfile.sh 
+  238  docker stop my-apache-app
+  239  docker rm my-apache-app
+  240  ./dockerfile.sh 
+  241  vi dockerfile.sh 
+  242  docker inspec my-appache-app
+  243  docker inspect my-appache-app
+  244  docker inspect my-apache-app
+  245  docker stop my-apache-app
+  246  docker inspect my-apache-app
+  247  vi dockerfile.sh 
+  248  docker start my-apache-app
+  249  docker inspect my-apache-app
+  250  q!
+  251  docker exec -it my-apache-app /bin/bash
+  252  pwd
+  253  du -sh docker
+  254  ls -lrt
+  255  ls -l /var/lib/docker/
+  256  sudo ls -l /var/lib/docker/
+  257  sudo ls -l /var/lib/docker/volumes
+  258  doscker ps
+  259  docker ps
+  260  docker stop my-apache-app
+  261  docker rm my-apache-app
+  262  vi dockerfile.sh 
+  263  docker images
+  264  sudo ls -l /var/lib/docker/image
+  265  cd myapp/frontend/
+  266  docker build -t myapache:1.0 . 
+  267  docker images
+  268  docker image\
+  269  docker image
+  270  docker images
+  271  pwd
+  272  docker build -t myUbuntu:1.0
+  273  docker build -t myUbuntu:1.0 .
+  274  pwd
+  275  cd ../../myUbuntu/
+  276  ls -lrt
+  277  cd frontend/
+  278  docker build -t myUbuntu:1.0 .
+  279  ls -lrt
+  280  docker build -t myubuntu:1.0 .
+  281  docker status
+  282  docker images
+  283  docker run -it myubuntu:latest /bin/back
+  284  docker run -it myubuntu:artful /bin/back
+  285  docker run -it ubuntu:docker /bin/back
+  286  docker run -it myubuntu
+  287  cd /opt/
+  288  vi packages
+  289  docker run -it ubuntu
+  290  nginx
+  291  docker run -it ubuntu
+  292  docker run -it myubuntu:1.0 /bin/bash
+  293  docker build -t myubuntu:1.1 .
+  294  docker images
+  295  docker run -it myubuntu:1.1 /bin/bash
+  296  docker run -d -p 9000:80 --name mynginx myngix:1.1
+  297  docker run -d -p 9000:80 --name myubuntu myubuntu:1.1
+  298  docker status
+  299  docker ps
+  300  docker run -d -p 8001:80 --name ubuntu01 myubuntu:1.1
+  301  docker build -t myubuntu:1.2 .
+  302  docker run -d -p 8003:80 --name ubuntu02 myubuntu:1.2
+  303  docket stio myubuntu1.0
+  304  docket stop myubuntu1.0
+  305  docke stop myubuntu1.0
+  306  docker stop myubuntu1.0
+  307  docker stop myubuntu
+  308  docker stop ubuntu01
+  309  docker ps
+  310  docker images
+  311  docket tag myngnix:1.2 peehs:peethsnginx:1.2
+  312  docker tag myngnix:1.2 peehs:peethsnginx:1.2
+  313  docker tag myngnix:1.2 peehs/peethsnginx:1.2
+  314  docker tag myubuntu:1.2 peehs/peethsnginx:1.2
+  315  docker login
+  316  docker push  peehs/peethsnginx
+  317  docker logout
+  318  docker tag myubuntu:1.1 peehs/peethsnginx:1.1
+  319  docker login
+  320  docker push  peehs/peethsnginx
+  321  pwd
+  322  ls lrt
+  323  ,ls -lrt
+  324  ls -lrt
+  325  cd WebTest_peeths/
+  326  ls -lrt
+  327  cp -r ../myUbuntu/ .
+  328  cp -r ../myapp/ .
+  329  cp -r ../dockerfile.sh .
+  330  ls -lrt
+  331  git add *
+  332  git commit -m "lkamnsklamkdlnakld"
+  333  git pull
+  334  git push
+  335  history > 26JUly2018.Docker.txt
+  336  cd ..
+  337  pwd
+  338  ls -lrt
+  339  pwd
+  340  cp 26JUly2018.Docker.txt /home/ec2-user/environment/
+  341  ls -ltr
+  342  cd WebTest_peeths/
+  343  cp ../26JUly2018.Docker.txt .
+  344  git add *
+  345  git commit -m "lkamnsklamkdlnakld"
+  346  git push
+  347  kuberbets
+  348  kubernets
+  349  pwd
+  350  wget -O kops https://github.com/kubernetes/kops/releases/download/1.8.1/kops-linux-amd64
+  351  chmod +x ./kops
+  352  sudo mv ./kops /usr/local/bin/
+  353  pwd
+  354  ls -lrt
+  355  ls -l /usr/local/bin/
+  356  ls -l /usr/local/bin/kops 
+  357  wget -O kubectl https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+  358  chmod +x ./kubectl
+  359  sudo mv ./kubectl /usr/local/bin/kubectl
+  360  sudo yum -y install wget
+  361  wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+  362  sudo yum -y install epel-release-latest-7.noarch.rpm
+  363  sudo yum -y install python-pip
+  364  sudo pip install awscli
+  365  aws configure 
+  366  dig nd peethsdomain.tk
+  367  aws s3api create-bucket --bucket kube-mohanraz-ml-state-store  --region us-east-1
+  368  {     "Location": "/kube-mohanraz-ml-state-store"; }
+  369  aws s3api create-bucket --bucket kube-peeths-ml-state-store  --region us-east-1
+  370  {     "Location": "/kube-peeths-ml-state-store"; }
+  371  aws s3api create-bucket --bucket kube-peeths-ml-state-store  --region us-east-1 { "Location": "/kube-peeths-ml-state-store" }
+  372  aws s3api create-bucket --bucket kube-peeths-ml-state-store  --region us-east-1
+  373  aws configure
+  374  aws s3api create-bucket --bucket kube-peeths-ml-state-store  --region us-east-1
+  375  sudi vi ~/.bash_profile 
+  376  sudo vi ~/.bash_profile 
+  377  export NAME=kubecluster.peethsdomain.tk
+  378  export KOPS_STATE_STORE=s3:/kube-peeths-ml-state-store
+  379  echo "$NAME
+  380  echo "$NAME"
+  381  echo "KOPS_STATE_STORE"
+  382  ssh -keygen ---
+  383  ssh-keygen
+  384  kops create cluster     --zones=us-east-1a,us-east-1b,us-east-1c     --master-zones=us-east-1a,us-east-1b,us-east-1c     --node-count=4     --node-size=t2.small     --master-size=t2.small     --name ${NAME}
+  385  kops create cluster     --zones=us-east-1a,us-east-1b,us-east-1c     --master-zones=us-east-1a,us-east-1b,us-east-1c     --node-count=4     --node-size=t2.small     --master-size=t2.small     --name ${NAME}
+  386  vi ~/.bash_profile 
+  387  kops create cluster     --zones=us-east-1a,us-east-1b,us-east-1c     --master-zones=us-east-1a,us-east-1b,us-east-1c     --node-count=4     --node-size=t2.small     --master-size=t2.small     --name ${NAME}
+  388  export KOPS_STATE_STORE=s3://kube-peeths-ml-state-store
+  389  kops create cluster     --zones=us-east-1a,us-east-1b,us-east-1c     --master-zones=us-east-1a,us-east-1b,us-east-1c     --node-count=4     --node-size=t2.small     --master-size=t2.small     --name ${NAME}
+  390  kops update cluser ${NAME} --yes
+  391  kops update cluster ${NAME} --yes
+  392  kops validate cluster
+  393  kubectl version
+  394  wget -O kubectl https://storage.googleapis.com/kubernetes-release/release/
+  395  wget -O kubectl https://storage.googleapis.com/kubernetes-release/release/v1.8.13/bin/linux/amd64/kubeclt
+  396  wget -O kubectl https://storage.googleapis.com/kubernetes-release/v1.8.13/bin/linux/amd64/kubeclt
+  397  wget -O kubectl https://storage.googleapis.com/kubernetes-release/release/v1.8.13/bin/linux/amd64/kubeclt
+  398  wget -O kubectl https://storage.googleapis.com/kubernetes-release/release/v1.8.13/bin/linux/amd64/kubectl
+  399  chmod +x ./kubectl
+  400  sudo mv ./kubectl /usr/local/bin/kubectl
+  401  kubectl version
+  402  kops validate cluster
+  403  cd 
+  404  ls -lrt
+  405  cd environment/
+  406  ls -lrt
+  407  ls ~/.kube/config 
+  408  vi ~/.kube/config 
+  409  cat ~/.kube/config 
+  410  kubectl get nodes
+  411  \
+  412  kubectl get namespace
+  413  kubectl get pods --namespace=kube-system
+  414  kubectl create namespace peethstest
+  415  kubectl describe namespace peethstest
+  416  kubectl apply -f quota.yaml 
+  417  kubectl describe namespace peethstest
+  418  kubectl apply -f quota.yaml --namespace peethstest
+  419  kubectl describe namespace peethstest
+  420  kubectl config set-context $(kubectl config current-context) --namespace=peethstest
+  421  kubectl  config vew |  grep namespace
+  422  kubectl config view |  grep namespace
+  423  kubectl apply -f peethsweb.yaml 
+  424  kubectl get deployments
+  425  kubectl describe deployment nginx-deployment
+  426  kubectl get rs
+  427  kbectl get pods
+  428  kubectl get pods
+  429  kubectl describe pod nginx-deployment-656896bf47-cjw8b
+  430  kubectl apply -f peethsweb.yaml 
+  431  kubectl get pods
+  432  kubectl apply -f peethsweb.yaml 
+  433  kubectl get pods
+  434  kubectl apply -f peethsweb.yaml 
+  435  kubectl get pods
+  436  kubectl apply -f peethsweb.yaml 
+  437  kubectl get pods
+  438  kubectl get pods\
+  439  kubectl get pods
+  440  kubectl delete resoucequota peethstest -namespace peethstest
+  441  kubectl delete resoucequota peethstest
+  442  kubectl get resoucequota
+  443  kubectl get resourcequota
+  444  kubectl delete resourcequota peethstest
+  445  kubectl get services
+  446  kubectl get services frontend
+  447  kubectl describe services
+  448  kubectl get pods
+  449  kubectl delete service frontend
+  450  kubectl apply -f peethsweb.yaml 
+  451  kubectl delete service frontend
+  452  kubectl apply -f peethsweb.yaml 
+  453  kubectl describe service frontend
+  454  kubectl delete deployment nginx-deployment
+  455  kubectl describe service frontend
+  456  kubectl delete service frontend
+  457  kubectl delete resourcequota peethstest --namespace pethstest
+  458  kubectl delete resourcequota peethstest --namespace peethstest
+  459  sudo usermod -a -G docker jenkins
+  460  sudo service jenkins restart
+  461  sudo yum -y ansible
+  462  sudo yum -y install ansible
+  463  which ansible-playboy
+  464  which ansible-playbook
+  465  sudo cp -R ~/.kube/ /var/lib/jenkins
+  466  sudo chown -R jenkins:jenkins /var/lib/jenkins/.kube/
+  467  ls -lart /var/lib/jenkins/
+  468  which aws
+  469  sudo pip install boto boto3 botocore
+  470  pwd
+  471  ls lrt
+  472  ls -lr
+  473      history > history.27July2018.txt
